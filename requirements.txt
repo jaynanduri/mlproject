@@ -1,4 +1,18 @@
+torch
 pandas
+dvc
+mlflow
+notebook
 numpy
+matplotlib
 seaborn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-pyYAML
+scikit-learn
+Flask
+gdown
 -e .
